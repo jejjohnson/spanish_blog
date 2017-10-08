@@ -3,39 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jejjohnson.github.io/spanish_blog/post/theme-reference/</loc>
-    <lastmod>2017-07-23T16:20:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jejjohnson.github.io/spanish_blog/post/another-post/</loc>
-    <lastmod>2017-05-23T12:16:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jejjohnson.github.io/spanish_blog/post/a-post/</loc>
-    <lastmod>2017-04-23T12:16:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jejjohnson.github.io/spanish_blog/post/hello-world/</loc>
-    <lastmod>2016-06-23T11:57:42+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jejjohnson.github.io/spanish_blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jejjohnson.github.io/spanish_blog/post/</loc>
-    <lastmod>2017-07-23T16:20:16+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://jejjohnson.github.io/spanish_blog/</loc>
-    <lastmod>2017-07-23T16:20:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
