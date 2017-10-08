@@ -1,6 +1,6 @@
 baseURL = "http://jejjohnson.github.io/spanish_blog/"
-languageCode = "en-us"
-title = "Spanish Blog"
+languageCode = "es-es"
+title = "Mi blog español"
 theme = "journal"
 
 [author]
@@ -11,7 +11,7 @@ theme = "journal"
   description = "Simple Spanish Blog."
   githubUsername = "jejjohnson"
   twitterUsername = "jejjohnson"
-  tagline = "My journey to Spanish fluency"
+  tagline = "mi viaje hacia la fluidez en español"
 [params.work]
   jobTitle = "PhD Candidate"
   company = "ISP-UV"
