@@ -1,3 +1,22 @@
-baseURL = "http://example.org/"
+baseURL = "http://jejjohnson.github.io/spanish_blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Spanish Blog"
+theme = "journal"
+
+[author]
+  name = "Juan Emmanuel Johnson"
+  homepage = "https://jejjohnson.github.io/academic/"
+
+[params]
+  description = "Simple Spanish Blog."
+  githubUsername = "jejjohnson"
+  twitterUsername = "jejjohnson"
+  tagline = "Blog tagline. Shown under index title."
+[params.work]
+  jobTitle = "PhD Candidate"
+  company = "ISP-UV"
+  companyUrl = "https://isp.uv.es"
+[params.gpg]
+  key = "0x1111111111111111"
+  fingerprint = "0000 0000 0000 0000 0000  0000 0000 0000 0000 0000"
+  link = "https://pgp.mit.edu/pks/lookup?op=get&search=0x1111111111111111"
