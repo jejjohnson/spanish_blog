@@ -11,7 +11,7 @@ theme = "journal"
   description = "Simple Spanish Blog."
   githubUsername = "jejjohnson"
   twitterUsername = "jejjohnson"
-  tagline = "Blog tagline. Shown under index title."
+  tagline = "My journey to Spanish fluency"
 [params.work]
   jobTitle = "PhD Candidate"
   company = "ISP-UV"
